@@ -11,7 +11,8 @@ body:
   - type: dropdown
     attributes:
       label: Select Topic Area
-      description: What would you like to discuss?
+      name: "Topic"
+      description: "What would you like to discuss?"
       options:
         - Question
         - Product Feedback
